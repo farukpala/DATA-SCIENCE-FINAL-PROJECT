@@ -1,4 +1,4 @@
-Battle of Neighborhoods-The Smart Investor,
+#Battle of Neighborhoods-The Smart Investor
 Finding the best neighborhood of Istanbul to invest in Fastfood
 
 
@@ -39,7 +39,7 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 Data Description
 
-1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )
+1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )(json file)
 
 2.Foursquare api to detect food venues in neighborhoods
 
