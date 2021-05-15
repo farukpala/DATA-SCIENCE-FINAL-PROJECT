@@ -1,15 +1,9 @@
 
-# Housing Sales Prices & Venues in Istanbul
-## Description & Disscusion of the Background
-Istanbul is one of the largest metropolises in the world where over **15 million** people live and it has a population density of **2.813** people per square kilometer. As a resident of this city, I decided to use Istanbul in my project. The city is divided into **39** districts in total. However, the fact that the districts are squeezed into an area of approximately **72** square kilometers causes the city to have a very intertwined and mixed structure [1].
+# Battle of Neighborhoods-The Smart Investor 
+## Finding the best neighborhood of Istanbul to invest in Fastfood
 
 
-
-#Battle of Neighborhoods-The Smart Investor 
-Finding the best neighborhood of Istanbul to invest in Fastfood
-
-
-##A.Introduction
+## A.Introduction
 
 ##A.1.Business Problem
 
