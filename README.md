@@ -37,7 +37,11 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 Data Description
 
 1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )
+
 2.Foursquare api to detect food venues in neighborhoods
+
 3.Turkish Statistical Institute , Medas platform –Demographic data of Istanbul boroughs to detect age and population distribution
+
 4.Geocoder Library to detect coordinates of neighborhoods
+
 5.İstanbul Metropolitan Municipality open data portal to detect neighborhood populations
