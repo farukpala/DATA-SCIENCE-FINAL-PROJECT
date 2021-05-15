@@ -26,13 +26,13 @@ I built my project on 2 main factors,
 
 .I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants. ([venue_categories.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/c7dd0da874bb801f938f574738113f748405254d/venue_categories.csv))
 
-*. Fast Food
+* . Fast Food
 
-*. Restaurants
+* . Restaurants
 
-*. Cafe (includes cafe’s and bars )
+* . Cafe (includes cafe’s and bars )
 
-*. Dessert shops
+* . Dessert shops
 
 2.I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
 
