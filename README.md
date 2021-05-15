@@ -34,10 +34,10 @@ I built my project on 2 main factors,
 
 *  Dessert shops
 
-** b.I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
+**b.** I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
 
-a. According to a statistical hypotesis, age and fast food consumption have strong correlation.( provided by “Ekev Academic Magazine”)
-b. In addition , According to a survey about fast food habits in Turkey , 45% of fast food consumers were aged 16–34 ( provided by “Mediabrands/Insight Research Company” )
+* According to a statistical hypotesis, age and fast food consumption have strong correlation.( provided by “Ekev Academic Magazine”)
+* In addition , According to a survey about fast food habits in Turkey , 45% of fast food consumers were aged 16–34 ( provided by “Mediabrands/Insight Research Company” )
 
 
 1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )([json file](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/ab2a8f37845efcdb2a7739e121259385e83bc5d1/stanford-nj696zj1674-geojson.json)) [1]
