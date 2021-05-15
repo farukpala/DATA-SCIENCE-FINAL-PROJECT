@@ -19,7 +19,7 @@ Which part of Istanbul we should invest ?
 My aim is to detect neighborhoods that have less rivals and have most potential customers.
 Now , Lets’s dive into data ocean to find optimal answers.
 
-###A.2. Data Description
+### A.2. Data Description
 
 I built my project on 2 main factors,
 
@@ -53,7 +53,7 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 6.Google Map, to get the  coordinates of the each borough. ([istanbul_geo.csv](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) [5].
 
-##References
+## References
 
 [1] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
 
