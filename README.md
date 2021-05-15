@@ -61,6 +61,6 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 [4][Neighborhood populations](https://en.wikipedia.org/wiki/Istanbul)
 
-[5][Google Map]((https://www.google.com/maps/))
+[5][Google Map](https://www.google.com/maps/)
 
 
