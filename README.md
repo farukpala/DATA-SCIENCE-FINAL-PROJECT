@@ -19,9 +19,10 @@ Which part of Istanbul we should invest ?
 My aim is to detect neighborhoods that have less rivals and have most potential customers.
 Now , Lets’s dive into data ocean to find optimal answers.
 
-### A.2. Data Description
+###A.2. Data Description
 
 I built my project on 2 main factors,
+
 1.I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants.
 
 a. Fast Food
