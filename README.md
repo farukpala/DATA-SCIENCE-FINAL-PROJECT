@@ -25,8 +25,11 @@ I built my project on 2 main factors,
 1.I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants.
 
 a. Fast Food
+
 b. Restaurants
+
 c. Cafe (includes cafe’s and bars )
+
 d. Dessert shops
 
 2. I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
