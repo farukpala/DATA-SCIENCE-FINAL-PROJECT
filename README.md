@@ -39,7 +39,7 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 ### Data Description
 
-1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )([json file](https://raw.githubusercontent.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/main/stanford-nj696zj1674-geojson.json))
+1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )([json file](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/ab2a8f37845efcdb2a7739e121259385e83bc5d1/stanford-nj696zj1674-geojson.json))
 
 2.Foursquare api to detect food venues in neighborhoods
 
