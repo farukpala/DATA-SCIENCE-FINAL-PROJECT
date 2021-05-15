@@ -24,7 +24,7 @@ Now , Lets’s dive into data ocean to find optimal answers.
 
 I built my project on 2 main factors,
 
-** a.I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants. ([venue_categories.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/c7dd0da874bb801f938f574738113f748405254d/venue_categories.csv))
+**a.** I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants. ([venue_categories.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/c7dd0da874bb801f938f574738113f748405254d/venue_categories.csv))
 
 *  Fast Food
 
