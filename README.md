@@ -1,4 +1,4 @@
-#Battle of Neighborhoods-The Smart Investor
+#Battle of Neighborhoods-The Smart Investor  <h1> tag
 Finding the best neighborhood of Istanbul to invest in Fastfood
 
 
