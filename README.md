@@ -54,6 +54,8 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 6.Google Map, to get the  coordinates of the each borough. ([istanbul_geo.csv](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) [5].
 
+7.Foursquare api lets 800 request per day , So I deleted some neighborhoods from 963 to 798 and saved as ([neighborhood_coordinates.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/8186d18f38017b7455bb331ce5a3dd1b02a0bdc3/neighborhood_coordinates.csv)) Query takes more than 30 minutes
+
 ## References
 
 [1] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
