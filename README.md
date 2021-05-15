@@ -39,12 +39,24 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 ### Data Description
 
-1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )([json file](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/ab2a8f37845efcdb2a7739e121259385e83bc5d1/stanford-nj696zj1674-geojson.json))
+1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )([json file](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/ab2a8f37845efcdb2a7739e121259385e83bc5d1/stanford-nj696zj1674-geojson.json)) [1]
 
-2.Foursquare api to detect food venues in neighborhoods
+2. **Foursquare api**  to detect food venues in neighborhoods[2] 
 
-3.Turkish Statistical Institute , Medas platform –Demographic data of Istanbul boroughs to detect age and population distribution
+3.Turkish Statistical Institute , Medas platform –Demographic data of Istanbul boroughs to detect age and population distribution ([istanbul_demographic.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/ab2a8f37845efcdb2a7739e121259385e83bc5d1/istanbul_demographic.csv))[3] 
 
-4.Geocoder Library to detect coordinates of neighborhoods
+4.Geocoder Library to detect coordinates of neighborhoods  
 
-5.İstanbul Metropolitan Municipality open data portal to detect neighborhood populations
+
+5.İstanbul Metropolitan Municipality open data portal to detect neighborhood populations ([neighborhood_pop.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/292f97dbd809eb0e67bf35eb970af63c20168d98/neighborhood_pop.csv)) [4]
+
+6. Google Map, to get the  coordinates of the each borough. ([istanbul_geo.csv](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) [5].
+
+##References
+[1] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
+[2][Foursquare API](https://developer.foursquare.com/)
+[3][Medas Platform](https://biruni.tuik.gov.tr/medas/?kn=95&locale=tr)
+[4][Neighborhood populations](https://en.wikipedia.org/wiki/Istanbul)
+[5][Google Map]((https://www.google.com/maps/))
+
+
