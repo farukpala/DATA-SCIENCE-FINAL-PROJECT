@@ -9,7 +9,8 @@
 
 Imagine that ,You are an investor who want invest into profitable businesses on all around the world. You have the capital and want to invest in Turkey.There are many options on the desk .
 
-Invest in a fast food restaurant in Istanbul ?
+**Invest in a fast food restaurant in Istanbul ?**
+
 If we ask this question without using our data science powers , it sounds quite bare and meaningless.
 Turkey’s fast food market size 2.4 billion dollars and it continues to grow.The word of “2.4 billion dollars market size“ Things are getting heating up.
 The financial health and stability the sector is strong and getting stronger. Increasingly , Turkey’s young population promises a high potential on fast food sector.
@@ -33,7 +34,7 @@ c. Cafe (includes cafe’s and bars )
 
 d. Dessert shops
 
-2. I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
+2.I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
 
 a. According to a statistical hypotesis, age and fast food consumption have strong correlation.( provided by “Ekev Academic Magazine”)
 b. In addition , According to a survey about fast food habits in Turkey , 45% of fast food consumers were aged 16–34 ( provided by “Mediabrands/Insight Research Company” )
@@ -42,7 +43,7 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )([json file](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/ab2a8f37845efcdb2a7739e121259385e83bc5d1/stanford-nj696zj1674-geojson.json)) [1]
 
-2. **Foursquare api**  to detect food venues in neighborhoods[2] 
+2.**Foursquare api**  to detect food venues in neighborhoods[2] 
 
 3.Turkish Statistical Institute , Medas platform –Demographic data of Istanbul boroughs to detect age and population distribution ([istanbul_demographic.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/ab2a8f37845efcdb2a7739e121259385e83bc5d1/istanbul_demographic.csv))[3] 
 
