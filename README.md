@@ -5,7 +5,7 @@
 
 ## A.Introduction
 
-##A.1.Business Problem
+### A.1.Business Problem
 
 Imagine that ,You are an investor who want invest into profitable businesses on all around the world. You have the capital and want to invest in Turkey.There are many options on the desk .
 
@@ -19,8 +19,7 @@ Which part of Istanbul we should invest ?
 My aim is to detect neighborhoods that have less rivals and have most potential customers.
 Now , Lets’s dive into data ocean to find optimal answers.
 
-A.2. Data Description
-
+### A.2. Data Description
 
 I built my project on 2 main factors,
 1.I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants.
@@ -38,7 +37,7 @@ d. Dessert shops
 a. According to a statistical hypotesis, age and fast food consumption have strong correlation.( provided by “Ekev Academic Magazine”)
 b. In addition , According to a survey about fast food habits in Turkey , 45% of fast food consumers were aged 16–34 ( provided by “Mediabrands/Insight Research Company” )
 
-Data Description
+### Data Description
 
 1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )(json file)
 
