@@ -24,17 +24,17 @@ Now , Lets’s dive into data ocean to find optimal answers.
 
 I built my project on 2 main factors,
 
-.I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants. ([venue_categories.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/c7dd0da874bb801f938f574738113f748405254d/venue_categories.csv))
+**a.I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants. ([venue_categories.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/c7dd0da874bb801f938f574738113f748405254d/venue_categories.csv))
 
-* . Fast Food
+*  Fast Food
 
-* . Restaurants
+*  Restaurants
 
-* . Cafe (includes cafe’s and bars )
+*  Cafe (includes cafe’s and bars )
 
-* . Dessert shops
+*  Dessert shops
 
-2.I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
+**b.I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
 
 a. According to a statistical hypotesis, age and fast food consumption have strong correlation.( provided by “Ekev Academic Magazine”)
 b. In addition , According to a survey about fast food habits in Turkey , 45% of fast food consumers were aged 16–34 ( provided by “Mediabrands/Insight Research Company” )
