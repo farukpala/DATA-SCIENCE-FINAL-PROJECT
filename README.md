@@ -54,9 +54,13 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 ##References
 [1] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
+
 [2][Foursquare API](https://developer.foursquare.com/)
+
 [3][Medas Platform](https://biruni.tuik.gov.tr/medas/?kn=95&locale=tr)
+
 [4][Neighborhood populations](https://en.wikipedia.org/wiki/Istanbul)
+
 [5][Google Map]((https://www.google.com/maps/))
 
 
