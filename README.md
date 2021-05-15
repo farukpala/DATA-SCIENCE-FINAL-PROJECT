@@ -50,7 +50,7 @@ b. In addition , According to a survey about fast food habits in Turkey , 45% of
 
 5.İstanbul Metropolitan Municipality open data portal to detect neighborhood populations ([neighborhood_pop.csv](https://github.com/farukpala/DATA-SCIENCE-FINAL-PROJECT/blob/292f97dbd809eb0e67bf35eb970af63c20168d98/neighborhood_pop.csv)) [4]
 
-6. Google Map, to get the  coordinates of the each borough. ([istanbul_geo.csv](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) [5].
+6.Google Map, to get the  coordinates of the each borough. ([istanbul_geo.csv](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) [5].
 
 ##References
 [1] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
