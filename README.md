@@ -5,6 +5,7 @@ Finding the best neighborhood of Istanbul to invest in Fastfood
 A.Introduction
 
 A.1.Business Problem
+
 Imagine that ,You are an investor who want invest into profitable businesses on all around the world. You have the capital and want to invest in Turkey.There are many options on the desk .
 
 Invest in a fast food restaurant in Istanbul ?
@@ -16,19 +17,27 @@ Istanbul is the 14th most populated metropolis of the world with its 15 million 
 Which part of Istanbul we should invest ?
 My aim is to detect neighborhoods that have less rivals and have most potential customers.
 Now , Lets’s dive into data ocean to find optimal answers.
+
 A.2. Data Description
+
+
 I built my project on 2 main factors,
 1.I focused on percentage of fast food restaurants on all food venues.I categorized venues into 4 groups include fast food and venues which can be alternative to fast food restaurants.
+
 a. Fast Food
 b. Restaurants
 c. Cafe (includes cafe’s and bars )
 d. Dessert shops
+
 2. I focused on age -fast food consumption correlation, People between 15–35 age group are my target customers;
+
 a. According to a statistical hypotesis, age and fast food consumption have strong correlation.( provided by “Ekev Academic Magazine”)
 b. In addition , According to a survey about fast food habits in Turkey , 45% of fast food consumers were aged 16–34 ( provided by “Mediabrands/Insight Research Company” )
+
 Data Description
-Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )
-Foursquare api to detect food venues in neighborhoods
-Turkish Statistical Institute , Medas platform –Demographic data of Istanbul boroughs to detect age and population distribution
-Geocoder Library to detect coordinates of neighborhoods
-İstanbul Metropolitan Municipality open data portal to detect neighborhood populations
+
+1.Second-level Administrative Divisions of the Turkey json file to create coropleth map via ratio of potential customers.(Provided by Spatial Data Repository of NYU )
+2.Foursquare api to detect food venues in neighborhoods
+3.Turkish Statistical Institute , Medas platform –Demographic data of Istanbul boroughs to detect age and population distribution
+4.Geocoder Library to detect coordinates of neighborhoods
+5.İstanbul Metropolitan Municipality open data portal to detect neighborhood populations
